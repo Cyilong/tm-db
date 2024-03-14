@@ -2,7 +2,6 @@ package db
 
 import (
 	"bytes"
-
 	"github.com/syndtr/goleveldb/leveldb/iterator"
 )
 
